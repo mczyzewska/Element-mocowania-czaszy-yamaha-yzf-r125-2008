@@ -18,6 +18,7 @@ Projekt rozwiązuje powszechny problem kruchości plastikowych uchwytów owiewek
 ### Model elementu mocowania lampy
 
 ![Element mocowania — widok ogólny](images/element_mocowania.png)
+
 *Model 3D elementu mocowania lampy owiewki Yamaha YZF R125*
 
 ---
