@@ -1,0 +1,1 @@
+# Element-mocowania-czaszy-yamaha-yzf-r125-2008
